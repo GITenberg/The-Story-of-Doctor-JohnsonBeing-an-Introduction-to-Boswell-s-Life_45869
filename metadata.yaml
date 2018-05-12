@@ -1,0 +1,29 @@
+_repo: The-Story-of-Doctor-JohnsonBeing-an-Introduction-to-Boswell-s-Life_45869
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45869-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, S. C. (Sydney Castle)
+    alias: Roberts, Sydney Castle
+    birthdate: 1887
+    deathdate: 1966
+    gutenberg_agent_id: '43507'
+    url: http://www.gutenberg.org/2009/agents/43507
+description: ''
+gutenberg_issued: '2014-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45869'
+  lccn: '19015914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Johnson, Samuel, 1709-1784'
+title: The Story of Doctor Johnson; Being an Introduction to Boswell's Life
+url: http://www.gutenberg.org/ebooks/45869
